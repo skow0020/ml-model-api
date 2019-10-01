@@ -9,10 +9,10 @@
 
 * Post body example:
 
-`{'Pclass': 3
-      , 'Age': 2
-      , 'SibSp': 1
-      , 'Fare': 50}`
+`{"Pclass": 3
+      , "Age": 2
+      , "SibSp": 1
+      , "Fare": 50}`
 
 
 ## Running locally: 
